@@ -4,7 +4,6 @@
 
 ## Java
 
-![Java路线图](https://raw.githubusercontent.com/JidanArchitect/File/main/Java%E8%B7%AF%E7%BA%BF%E5%9B%BE.png?token=GHSAT0AAAAAABR62FEWGPCRFWZB4NFRVDYGYQZ4L5Q)
 
 ## Golang
 
